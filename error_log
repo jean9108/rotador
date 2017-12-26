@@ -1,0 +1,1 @@
+[13-Feb-2017 09:43:14 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/Rotador/conexion.php on line 3
